@@ -1,0 +1,2 @@
+models1が先攻のAIのモデル
+models2が後攻のAIモデル
