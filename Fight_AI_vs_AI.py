@@ -16,7 +16,7 @@ if __name__ == "__main__":
     # environmet, agent
     env = Reversi()
     agent1 = DQNAgent(env.enable_actions, env.name, env.screen_n_rows, env.screen_n_cols)
-    #agent1.load_model("models1/Reversi.ckpt")
+    agent1.load_model("models1/Reversi.ckpt")
 
     agent2 = DQNAgent(env.enable_actions, env.name, env.screen_n_rows, env.screen_n_cols)
     agent2.load_model("models2/Reversi.ckpt")
