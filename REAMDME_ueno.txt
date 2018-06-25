@@ -1,2 +1,5 @@
-models1が先攻のAIのモデル
-models2が後攻のAIモデル
+models1が先攻のAIのモデル(現在5000epoch)
+models2が後攻のAIモデル(現在1000epoch)
+
+Fight_AI_vs_AVでmodels1とmodels2が戦う
+FightWithAIでmodels1とプレイヤーが戦う
