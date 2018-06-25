@@ -16,7 +16,7 @@ if __name__ == "__main__":
     # environmet, agent
     env = Reversi()
     agent = DQNAgent(env.enable_actions, env.name, env.screen_n_rows, env.screen_n_cols)
-    agent.load_model(args.model_path)
+    agent.load_model("models1/Reversi.ckpt")
 
     # game
     print("------------- GAME START ---------------")

@@ -1,2 +1,2 @@
-model_checkpoint_path: "/home/ac130/AI/tf-dqn-reversi/models/Reversi.ckpt"
-all_model_checkpoint_paths: "/home/ac130/AI/tf-dqn-reversi/models/Reversi.ckpt"
+model_checkpoint_path: "/home/media/ueno/tf-dqn-reversi/models/Reversi.ckpt"
+all_model_checkpoint_paths: "/home/media/ueno/tf-dqn-reversi/models/Reversi.ckpt"
